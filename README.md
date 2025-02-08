@@ -1,5 +1,3 @@
-# OS-PROJECT
-
 # OS Project - Banker's Algorithm
 
 ## Overview
